@@ -70,6 +70,9 @@ node server.js
 └── README.md
 ```
 
+## Preview 
+https://github.com/user-attachments/assets/fbac8610-1f90-43b2-8d0a-81b97cd14a46
+
 ## Dependencies
 
 - Express.js - Web server framework
@@ -90,6 +93,10 @@ npm install nodemon --save-dev
 ```bash
 npm run dev
 ```
+
+
+
+
 
 ## CSV Data Format
 
