@@ -12,7 +12,7 @@ A web application for visualizing Indian stock market index data with interactiv
   - Points change and percentage change
   - P/E Ratio, P/B Ratio, and Dividend Yield
 - Responsive design for all screen sizes
-
+ 
 ## Prerequisites
 
 - Node.js (v14 or higher)
